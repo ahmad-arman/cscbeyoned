@@ -1,0 +1,17 @@
+{
+    "development":{
+        "username":"postgres",
+        "password":"12345",
+        "database":"cscbeyond",
+        "host":"127.0.0.1",
+        "dialect":"postgres"
+    },
+    "production":{
+        "username":"yzclsrgyravwum",
+        "password":"f5d49c7f2a577bc828383eef0efedbce1abebe88291acc7d6c0fdcc101081efd",
+        "database":"d97eile29po4jp",
+        "host":"ec2-44-197-128-108.compute-1.amazonaws.com",
+        "dialect":"postgres "
+    }
+
+}
